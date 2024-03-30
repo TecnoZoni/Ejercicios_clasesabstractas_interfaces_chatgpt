@@ -1,8 +1,6 @@
 # Ejercicios_clasesabstractas_interfaces_chatgpt
 Ejercicio de clases abstractas e interfaces de Java que me dio ChatGPT
 
-Claro, aquí tienes un ejercicio conceptual que puedes implementar en Java utilizando clases abstractas e interfaces:
-
 **Contexto:**
 Imagina que estás desarrollando un sistema para administrar diferentes tipos de vehículos: coches y bicicletas. Además, quieres implementar algunas funcionalidades específicas para cada tipo de vehículo.
 
